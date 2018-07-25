@@ -5,6 +5,6 @@ account: chspoerlein
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 384757
-bundleId: 1491126
+bundleId: 1498795
 url: https://chspoerlein.shinyapps.io/wordcloud_lennart/
-when: 1532084465.72283
+when: 1532512283.63138
